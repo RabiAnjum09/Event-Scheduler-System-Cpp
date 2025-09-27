@@ -42,5 +42,3 @@ A **C++-based Event Scheduler** that helps users manage their time effectively b
 - **Vectors** – Dynamic and efficient heap implementation.
 
 ---
-
-## 📂 Project Structure
